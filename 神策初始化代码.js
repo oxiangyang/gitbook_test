@@ -1,6 +1,8 @@
  //该方法在app.js中，在启动时会多次调用
 
 // 测试1
+
+// 测试2
  getToken() {
     return new ZMPromise((resolve, reject) => {
       this.request({
