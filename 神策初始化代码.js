@@ -3,6 +3,8 @@
 // 测试1
 
 // 测试2
+
+// test3
  getToken() {
     return new ZMPromise((resolve, reject) => {
       this.request({
